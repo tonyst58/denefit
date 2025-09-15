@@ -135,10 +135,4 @@
     </main>
 
     <footer>
-      <div style="font-weight:700">Want changes?</div>
-      <div style="font-size:13px;color:var(--muted)">I can customize headlines, add logos, testimonials, or embed tracking pixels (Facebook/Google/UTM). Just tell me what you want changed.</div>
-    </footer>
-
-  </div>
-</body>
-</html>
+   
