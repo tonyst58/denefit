@@ -48,12 +48,12 @@
   </noscript>
 
   <script>
-    // Pass UTM parameters dynamically to the CTA
+    // Pass UTM parameters dynamically to CTA buttons
     document.addEventListener("DOMContentLoaded", function() {
       const params = new URLSearchParams(window.location.search);
       const ctaButtons = document.querySelectorAll('.cta-btn');
       ctaButtons.forEach(btn => {
-        btn.href += `&${params.toString()}`;
+        if (params.toString()) btn.href += `&${params.toString()}`;
         btn.addEventListener('click', function() {
           fbq('track', 'Lead');
           if(typeof window.lintrk === 'function') {
@@ -66,7 +66,7 @@
 </head>
 <body class="bg-gray-50 text-gray-900">
 
-  <!-- Header with Denefits logo -->
+  <!-- Header with Denefits Logo -->
   <header class="bg-white py-6 shadow">
     <div class="max-w-5xl mx-auto text-center">
       <img src="https://business.denefits.com/logo.png" alt="Denefits Logo" class="mx-auto h-16">
