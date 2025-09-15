@@ -1,4 +1,4 @@
-
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -127,12 +127,10 @@
             <input type="email" required placeholder="Your email" style="width:100%;padding:10px;border-radius:10px;border:1px solid #e6eefc;margin-bottom:8px" />
             <button class="btn btn-primary" style="width:100%">Send me the signup link</button>
           </form>
-
-          <p style="font-size:12px;color:var(--muted);margin-top:12px">Tracking: this page includes your affiliate link so signups will be attributed to your partner code ANST447.</p>
         </div>
       </aside>
 
     </main>
-
-    <footer>
-   
+  </div>
+</body>
+</html>
