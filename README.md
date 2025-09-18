@@ -9,7 +9,7 @@
 <body class="bg-gray-50 text-gray-800">
   <!-- Header -->
   <header class="bg-white shadow-md p-6 flex justify-center">
-    <img src="https://www.denefits.com/wp-content/uploads/2023/02/denefits-logo.png" alt="Denefits Logo" class="h-10">
+    <img src="./denefits-logo.jpg" alt="Denefits Logo" class="h-10 mx-auto">
   </header>
 
   <!-- Hero Section -->
