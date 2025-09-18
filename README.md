@@ -9,7 +9,7 @@
 <body class="bg-gray-50 text-gray-800">
   <!-- Header -->
   <header class="bg-white shadow-md p-6 flex justify-center">
-    <img src="./denefits-logo.jpg" alt="Denefits Logo" class="h-10 mx-auto">
+   <img src="./denefits-logo.jpg" alt="Denefits Logo" class="h-10 mx-auto">
   </header>
 
   <!-- Hero Section -->
