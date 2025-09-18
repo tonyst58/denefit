@@ -1,6 +1,5 @@
 <html lang="en">
 <head>
-<img src="https://www.denefits.com/wp-content/uploads/2023/02/denefits-logo.png" alt="Denefits Logo" class="h-10">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Affordable Payment Plans | Denefits</title>
