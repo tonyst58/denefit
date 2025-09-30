@@ -1,63 +1,82 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Affordable Payment Plans | Denefits</title>
-  <meta name="description" content="Help patients afford treatment with no credit check financing. Join Denefits today.">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css">
+  <title>Partner with Denefits – Earn Recurring Commissions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f7fb;
+      color: #333;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+    }
+    .cta-button {
+      background-color: #28a745;
+      color: white;
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .cta-button:hover {
+      background-color: #218838;
+    }
+    footer {
+      background-color: #343a40;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+  </style>
 </head>
-<body class="bg-gray-50 text-gray-800">
-  <!-- Header -->
-  <header class="bg-white shadow-md p-6 flex justify-center">
-   <img src="https://raw.githubusercontent.com/tonyst58/denefit/main/Denefits_2_colored.jpg" alt="Denefits Logo" class="h-16 mx-auto">
+<body>
+
+  <header>
+    <h1>Partner with Denefits</h1>
+    <p>Unlock unlimited commissions by helping businesses grow</p>
   </header>
 
-  <!-- Hero Section -->
-  <section class="text-center py-12 px-4 bg-gradient-to-r from-blue-500 to-blue-700 text-white">
-    <h1 class="text-3xl md:text-5xl font-bold mb-4">Offer Payment Plans with No Credit Checks</h1>
-    <p class="text-lg md:text-xl mb-6">Grow your business by helping more clients say YES to treatment.</p>
-    <a href="https://business.denefits.com/register?partner=ANST447&utm_source=linkedin&utm_medium=landingpage&utm_campaign=denefits_affiliate"
-       class="bg-white text-blue-700 font-bold py-3 px-8 rounded-full shadow-lg hover:bg-gray-100 transition">
-       Get Started Free
+  <section>
+    <h2>Why Choose Denefits?</h2>
+    <p>Join a leading finance affiliate program with:</p>
+    <ul>
+      <li>No enrollment cost</li>
+      <li>Unlimited commission potential</li>
+      <li>Access to training and marketing materials</li>
+      <li>Support for businesses across various industries</li>
+    </ul>
+    <a href="https://business.denefits.com/register?partner=ANST447" class="cta-button" target="_blank" rel="noopener noreferrer">
+      Become a Partner Today
     </a>
   </section>
 
-  <!-- Benefits Section -->
-  <section class="max-w-5xl mx-auto py-12 px-4 grid md:grid-cols-3 gap-8">
-    <div class="bg-white shadow-md p-6 rounded-xl">
-      <h3 class="text-xl font-semibold mb-2">No Credit Checks</h3>
-      <p>Anyone can qualify. Give your clients an easy way to afford care.</p>
-    </div>
-    <div class="bg-white shadow-md p-6 rounded-xl">
-      <h3 class="text-xl font-semibold mb-2">Instant Approvals</h3>
-      <p>Get fast payment plan approvals and start treatment right away.</p>
-    </div>
-    <div class="bg-white shadow-md p-6 rounded-xl">
-      <h3 class="text-xl font-semibold mb-2">Guaranteed Payments</h3>
-      <p>Denefits ensures you get paid on time, every time.</p>
-    </div>
-  </section>
-
-  <!-- Social Proof / Testimonials -->
-  <section class="bg-gray-100 py-12 px-4">
-    <div class="max-w-4xl mx-auto text-center">
-      <h2 class="text-2xl font-bold mb-6">Trusted by Thousands of Providers</h2>
-      <blockquote class="italic text-lg">"Denefits helped me offer care to more patients than ever before. I no longer worry about payment delays." <br>— Dr. Smith, Dental Practice Owner</blockquote>
-    </div>
-  </section>
-
-  <!-- CTA Section -->
-  <section class="text-center py-12 px-4">
-    <h2 class="text-2xl font-bold mb-4">Ready to Grow Your Business?</h2>
-    <a href="https://business.denefits.com/register?partner=ANST447&utm_source=linkedin&utm_medium=landingpage&utm_campaign=denefits_affiliate"
-       class="bg-blue-600 text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-blue-700 transition">
-       Join Denefits Free
-    </a>
-  </section>
-
-  <!-- Footer -->
-  <footer class="bg-gray-900 text-gray-300 text-center p-6 text-sm">
-    © 2025 Denefits Affiliate | <a href="https://www.denefits.com" class="underline hover:text-white">Learn More</a>
+  <footer>
+    <p>&copy; 2025 Denefits Partner Program. All rights reserved.</p>
   </footer>
+
 </body>
 </html>
+<img width="1024" height="1536" alt="ChatGPT Image Sep 30 2025 10_08_47 AM" src="https://github.com/user-attachments/assets/abeb87cc-283a-4aee-9ae2-6056a646bf61" />
